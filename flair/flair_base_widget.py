@@ -1,5 +1,5 @@
 import flet as ft
-from flair_widget_style import FlairWidgetStyle
+from .flair_widget_style import FlairWidgetStyle
 import asyncio
 
 

@@ -1,4 +1,4 @@
-from flair_base_widget import FlairBaseWidget, FlairWidgetStyle
+from .flair_base_widget import FlairBaseWidget, FlairWidgetStyle
 import flet as ft
 import asyncio
 
