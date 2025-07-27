@@ -25,7 +25,7 @@
 Install directly from GitHub via pip:
 
 ```bash
-pip install git+https://github.com/your-username/flair.git
+pip install git+https://github.com/Blu-121/flair.git
 ```
 
 Or clone the repository and install locally:
