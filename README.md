@@ -31,7 +31,7 @@ pip install git+https://github.com/your-username/flair.git
 Or clone the repository and install locally:
 
 ```bash
-git clone https://github.com/your-username/flair.git
+git clone https://github.com/Blu-121/flair.git
 cd flair
 pip install -e .
 ```
